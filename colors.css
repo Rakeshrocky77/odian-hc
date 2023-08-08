@@ -1,0 +1,27 @@
+ body {
+    border-radius: 200px;
+ }
+ .head {
+    padding:200px;
+    background-color:black;
+    color: white;
+}
+.head > button {
+  
+    background-color: rgb(114, 114, 224);
+    color: white;
+}
+.extra {
+    padding: 200px;
+    background-color: gray;
+}
+.bottom {
+    padding: 50px;
+    background-color: black;
+    color: gray;
+
+}
+.threed {
+    padding: 150px;
+    background-color: white;
+}
